@@ -1,3 +1,5 @@
+
+
 ---
 title: LOL-DeepWinPredictor
 emoji: 🏆
@@ -97,6 +99,8 @@ LOL-DeepWinPredictor 是一个英雄联盟职业赛事数据分析与胜率预�
 | 启动服务 | `python -m api.app` |
 | 访问页面 | `http://127.0.0.1:7777` |
 | API 文档 | `http://127.0.0.1:7777/docs` |
+
+> 前端 `package.json` 声明 `packageManager: pnpm@10.14.0`；建议使用 `pnpm install` 和 `pnpm build`。
 
 ## 🔐 环境变量
 
